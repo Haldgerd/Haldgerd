@@ -1,5 +1,5 @@
-<h2 style="width: auto;">Hi I'm "Lorna"!</h2>
-<hr style="border: 2px dotted #ffcc00;">
+<h2 style="width: auto;">I'm "Lorna"</h2>
+<hr style="border: 1px dotted #ffcc00;">
 
 <!--<img src="https://media.giphy.com/media/RmED3j060TfJBRG1MH/giphy.gif" alt="Glitch_Lorna" style="align:center;">-->
 
@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<hr style="border: 2px dotted #ffcc00;">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/Haldgerd/github-readme-stats)
 
