@@ -1,4 +1,4 @@
-###Hi I'm "Lorna"!
+<h2>Hi I'm "Lorna"!</h2>
 <hr>
 
 
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Lorna's github stats](https://github-readme-stats.vercel.app/api?username=Haldgerd)](https://github.com/Haldgerd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd)](https://github.com/Haldgerd/github-readme-stats)
 
 ![Lorna's github stats](https://github-readme-stats.vercel.app/api?username=Haldgerd&show_icons=true&theme=radical)
