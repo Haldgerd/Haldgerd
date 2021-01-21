@@ -1,4 +1,4 @@
-<h2 style="align:center;">Hi I'm "Lorna"!</h2>
+<h2 style="width: auto;">Hi I'm "Lorna"!</h2>
 <hr style="border: 2px dotted #ffcc00;">
 
 <img src="https://media.giphy.com/media/RmED3j060TfJBRG1MH/giphy.gif" alt="Glitch_Lorna" style="align:center;">
