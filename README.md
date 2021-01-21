@@ -1,6 +1,7 @@
-<h2>Hi I'm "Lorna"!</h2>
-<hr>
+<h2 style="align:center;">Hi I'm "Lorna"!</h2>
+<hr style="border: 2px dotted #ffcc00;">
 
+<img src="https://media.giphy.com/media/RmED3j060TfJBRG1MH/giphy.gif" alt="Glitch_Lorna" style="align:center;">
 
 <!--
 **Haldgerd/Haldgerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +17,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table>
-  <tr>
-    <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/Haldgerd/github-readme-stats) </td>
-    <td>
-      ![Lorna's github stats](https://github-readme-stats.vercel.app/api?username=Haldgerd&show_icons=true&theme=radical)</td>
+
+<hr style="border: 2px dotted #ffcc00;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/Haldgerd/github-readme-stats)
+
+![Lorna's github stats](https://github-readme-stats.vercel.app/api?username=Haldgerd&show_icons=true&theme=radical)
