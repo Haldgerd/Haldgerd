@@ -1,5 +1,3 @@
-<h2 style="width: auto;">I'm "Lorna"</h2>
-<hr style="border: 1px dotted #ffcc00;">
 
 <img src="https://www.canva.com/design/DAET5jsQsNY/iPZWY1s0_PVBGWxqTt4g-w/view?utm_content=DAET5jsQsNY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="Glitch_Lorna">
 
