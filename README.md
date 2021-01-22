@@ -13,16 +13,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Haldgerd Banner](./Images/Haldgerd_banner.png)
+![Haldgerd Banner](./Images/Haldgerd_banner.png) return
 
-<div align="center">Avid geek, cyberpunk fan and a self taught programmer. I'm passionate about tehnology and programming. I love solving problems using uncoventional ways, using creative processes combined with logicial thinking.</div>
-
-<h2 align="center">Connect wireless..</h2>
-
----
-
-<h1 align="center"> Languages and Tools..</h1>
+<div align="center">
+  Avid geek, cyberpunk fan and a self taught programmer. I'm passionate about tehnology and programming. I love solving problems using uncoventional ways, using creative processes combined with logicial thinking.
+</div>
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515) ![Lorna's github stats](https://github-readme-stats.vercel.app/api?username=Haldgerd&show_icons=true&theme=radical)
+<h2 align="center" color="#F0CB29">LANGUAGES AND TOOLS OF CREATION</h2>
+
+---
+
+<h2 align="center" color="#F0CB29">CONTACT ME</h2>
+
+---
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" style="float: left; width: 20%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Haldgerd&show_icons=true&theme=radical" style="float: left; width: 20%;"/>
+</div>
