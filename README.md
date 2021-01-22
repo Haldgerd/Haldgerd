@@ -13,23 +13,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Haldgerd Banner](./Images/Haldgerd_banner.png) return
+![Haldgerd Banner](./Images/Gif_banner.gif)
+<br><br>
 
 <div align="center">
   Avid geek, cyberpunk fan and a self taught programmer. I'm passionate about tehnology and programming. I love solving problems using uncoventional ways, using creative processes combined with logicial thinking.
 </div>
 
----
+![languages banner](./Images/language_banner.png)
+<br>
 
-<h2 align="center" color="#F0CB29">LANGUAGES AND TOOLS OF CREATION</h2>
-
----
-
-<h2 align="center" color="#F0CB29">CONTACT ME</h2>
-
----
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" style="float: left; width: 20%;"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Haldgerd&show_icons=true&theme=radical" style="float: left; width: 20%;"/>
+<div align="center">
+  I'm currently working with and enthusiastically studying:
 </div>
+
+![contact banner](./Images/contact_banner.png)
+<br>
+
+<p>[email contact](Haldgerd.code@gmail.com)</p>
+
+---
+
+![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515) | ![alt text](https://github-readme-stats.vercel.app/api?username=Haldgerd&show_icons=true&theme=radical)
