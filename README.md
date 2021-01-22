@@ -1,7 +1,3 @@
-
-
-<img src="https://www.canva.com/design/DAET5jsQsNY/iPZWY1s0_PVBGWxqTt4g-w/view?utm_content=DAET5jsQsNY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="Glitch_Lorna">
-
 <!--
 **Haldgerd/Haldgerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,6 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515)](https://github.com/Haldgerd/github-readme-stats)
+![Haldgerd Banner](./Images/Haldgerd_banner.png)
 
-![Lorna's github stats](https://github-readme-stats.vercel.app/api?username=Haldgerd&show_icons=true&theme=radical)
+<div align="center">Avid geek, cyberpunk fan and a self taught programmer. I'm passionate about tehnology and programming. I love solving problems using uncoventional ways, using creative processes combined with logicial thinking.</div>
+
+<h2 align="center">Connect wireless..</h2>
+
+---
+
+<h1 align="center"> Languages and Tools..</h1>
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haldgerd&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515) ![Lorna's github stats](https://github-readme-stats.vercel.app/api?username=Haldgerd&show_icons=true&theme=radical)
