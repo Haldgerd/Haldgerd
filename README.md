@@ -1,31 +1,28 @@
 <!--
-**Haldgerd/Haldgerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Haldgerd/Haldgerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ![Haldgerd Banner](./Images/haldgerd_banner2.gif)
 <br><br>
 
 <div align="left">
-  Avid geek, cyberpunk fan and a self taught programmer. I'm passionate about tehnology and programming. I love solving problems using uncoventional ways, using creative processes combined with logicial thinking.
+  Avid geek, cyberpunk fan and a self taught programmer. I'm passionate about tehnology and programming. I love solving problems using uncoventional ways, using creative processes combined with logicial thinking. I emphasis a lot on clean, readable code with a touch of creativity and edgy esthetics<br><br>
+
+Specific fields of interest inculde:
+
+  <ul>
+    <li>Python (which I adore!)</li>
+    <li>Linux system</li>
+    <li>Game development</li>
+    <li>Full stack web development</li>
+  </ul>
 </div>
-<br><br>
+<br>
 
 ![languages banner](./Images/language_banner.png)
 <br>
 
 <div align="left">
-  I'm currently working with and enthusiastically studying:
+  I'm currently working with and enthusiastically learning:
   <br>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40">
   <img src="https://caktus-website-production-2015.s3.amazonaws.com/media/blog-images/logo.png" height="40px">
@@ -40,13 +37,17 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" style="max-width:100%;" width="45px">
   <br><br>
 
-  <p>Very passionate about learning in near future:</p>
-  <img src="https://camo.githubusercontent.com/5b44cc6b7ca4660663b445cae08a0468fcd8b8f07afb17f2ef55adea89a7d4c4/68747470733a2f2f692e696d6775722e636f6d2f6f344653655a362e706e67" data-canonical-src="https://i.imgur.com/o4FSeZ6.png" style="max-width:100%;" width="45px">
+</div>
+<!--<div>
+  <h1>PROJECTS AND DESIGNS banner</h1>
+  <p>Bold designs and edgy colors.</p></p>-->
 
 </div>
 <br>
 
-<!--![contact banner](./Images/contact_banner2.png)
+![contact banner](./Images/contact_banner3.png)
 <br>
-<p>For all things programming and geek related, contact me at my github page.
-<p>[UNDER CONSTRUCTION]</p>-->
+
+<p>Open for collaboration on edgy and interesting projects.
+
+For all things programming and geek related, contact me at my github page or simply e-mail me at Haldgerd.code@gmail.com.</p>
