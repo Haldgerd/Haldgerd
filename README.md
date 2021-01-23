@@ -10,7 +10,7 @@
 Specific fields of interest inculde:
 
   <ul>
-    <li>Python (which I adore!)</li>
+    <li>Python (which I adore!)</span></li>
     <li>Linux system</li>
     <li>Game development</li>
     <li>Full stack web development</li>
@@ -50,4 +50,4 @@ Specific fields of interest inculde:
 
 <p>Open for collaboration on edgy and interesting projects.
 
-For all things programming and geek related, contact me at my github page or simply e-mail me at Haldgerd.code@gmail.com.</p>
+For all things programming and geek related, contact me at my github page or simply e-mail me at <a style="color: #E6C616;">Haldgerd.code@gmail.com.</a></p>
