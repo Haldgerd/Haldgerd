@@ -1,7 +1,7 @@
 <!--
 **Haldgerd/Haldgerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![Haldgerd Banner](./Images/haldgerd_banner2.gif)
+![Haldgerd Banner](./Images/Haldgerd_banner_yellow.gif)
 <br><br>
 
 <div align="left">
