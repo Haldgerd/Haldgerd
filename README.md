@@ -5,7 +5,8 @@
 <br><br>
 
 <div align="left">
-  Avid geek, cyberpunk fan and a self taught programmer. I'm passionate about tehnology and programming. I love solving problems using uncoventional ways, using creative processes combined with logicial thinking. I emphasis a lot on clean, readable code with a touch of creativity and edgy esthetics<br><br>
+  I'm a huge geek, cyberpunk fan with unhealthy love for retrowave and synthwave music and a <strong>self taught programmer</strong>. I'm passionate about tehnology and programming. Solving problems using uncoventional ways, combining creative processes  with logicial thinking is my soul purpose. 
+  I emphasis a lot on clean, readable code with a touch of creativity and edgy esthetics<br><br>
 
 Specific fields of interest inculde:
 
