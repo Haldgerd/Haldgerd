@@ -8,7 +8,7 @@
   I'm a huge geek, cyberpunk fan with unhealthy love for retrowave and synthwave music and a <strong>self taught programmer</strong>. I'm passionate about tehnology and programming. Solving problems using uncoventional ways, combining creative processes  with logicial thinking is my soul purpose. 
   I emphasis a lot on clean, readable code with a touch of creativity and edgy esthetics<br><br>
 
-Specific fields of interest inculde:
+Specific fields of my interest inculde:
 
   <ul>
     <li>Python (which I adore!)</span></li>
