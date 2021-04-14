@@ -5,8 +5,7 @@
 <br><br>
 
 <div align="left">
-  I'm a huge geek, cyberpunk fan with unhealthy love for retrowave and synthwave music and a <strong>self taught programmer</strong>. I'm passionate about tehnology and programming. Solving problems using uncoventional ways, combining creative processes  with logicial thinking is my soul purpose. 
-  I emphasis a lot on clean, readable code with a touch of creativity and edgy esthetics<br><br>
+  I'm a huge geek, cyberpunk fan with unhealthy love for retrowave and synthwave music and a <strong>self taught programmer</strong>. I'm passionate about tehnology and programming. Solving problems using uncoventional ways, combining creative processes (illustration, animation)  with logicial thinking is my soul purpose. I just simply adore combining ART and CODE, being edgy and creative with every project I do! I also emphasis a lot on clean (DRY), readable code.<br><br>
 
 Specific fields of my interest inculde:
 
@@ -15,6 +14,8 @@ Specific fields of my interest inculde:
     <li>Linux system</li>
     <li>Game development</li>
     <li>Full stack web development</li>
+    <li>I love HTML and CSS!</li>
+    <li>Focused on BOLD, BIG design solutions.</li>
   </ul>
 </div>
 <br>
@@ -51,4 +52,4 @@ Specific fields of my interest inculde:
 
 <p>Open for collaboration on edgy and interesting projects.
 
-For all things programming and geek related, contact me at my github page or simply e-mail me at <a style="color: yellow;">Haldgerd.code@gmail.com</a>.</p>
+For all things programming and geek related, contact me at my github page or simply e-mail me at <a style="color: yellow;">haldgerd.code@gmail.com</a>.</p>
