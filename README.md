@@ -5,17 +5,18 @@
 <br><br>
 
 <div align="left">
-  I'm a huge geek, cyberpunk fan with unhealthy love for retrowave and synthwave music and a <strong>self taught programmer</strong>. I'm passionate about tehnology and programming. Solving problems using uncoventional ways, combining creative processes (illustration, animation)  with logicial thinking is my soul purpose. I just simply adore combining ART and CODE, being edgy and creative with every project I do! I also emphasis a lot on clean (DRY), readable code.<br><br>
+  I'm a huge geek, cyberpunk fan with unhealthy love for retrowave and synthwave music and a <strong>self taught web developer/web designer</strong>. I'm passionate about tehnology and programming. Solving problems using uncoventional ways, combining creative processes (illustration, animation)  with logicial thinking is my soul purpose. I just simply adore combining ART and CODE, being edgy, BOLD and creative with every project I do! I also emphasis a lot on clean (DRY), readable code.<br><br>
 
 Specific fields of my interest inculde:
 
   <ul>
+    <li>Web design (art, ART! Everywhere! I LOVE IT.)
     <li>Python (which I adore!)</span></li>
     <li>Linux system</li>
-    <li>Game development</li>
+    <li>Game development ()</li>
     <li>Full stack web development</li>
-    <li>I love HTML and CSS!</li>
-    <li>Focused on BOLD, BIG design solutions.</li>
+    <li>I love HTML and CSS! (and animation *wink wink*)</li>
+    <li>Focused on BOLD, dustrial, design solutions (the designers republic, anyone?).</li>
   </ul>
 </div>
 <br>
