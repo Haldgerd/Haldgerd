@@ -53,4 +53,4 @@ Specific fields of my interest inculde:
 
 <p>Open for collaboration on edgy and interesting projects.
 
-For all things programming and geek related, contact me at my github page or simply e-mail me at <a style="color: yellow;">haldgerd.code@gmail.com</a>.</p>
+For all things programming and geek related simply e-mail me at <a style="color: yellow;">haldgerd.code@gmail.com</a>.</p>
