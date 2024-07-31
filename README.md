@@ -27,7 +27,7 @@ Specific fields of my interest inculde:
 <div align="left">
   I'm working with:
   <br>
-  <img src="https://th.bing.com/th/id/R.aed9b9a548ca1e332e424eeea82765fe?rik=dA%2b4vD0jvG3GtA&pid=ImgRaw&r=0" height="40">
+  <img src="https://e7.pngegg.com/pngimages/497/724/png-clipart-unity-technologies-game-engine-video-game-development-unity-miscellaneous-game.png" height="40">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40">
   <img src="https://caktus-website-production-2015.s3.amazonaws.com/media/blog-images/logo.png" height="40px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40">
