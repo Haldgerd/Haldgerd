@@ -7,5 +7,3 @@
 ![3](https://github.com/user-attachments/assets/e73ec866-396d-4019-9768-5f59cbd31bc8)
 
 ![4](https://github.com/user-attachments/assets/179f3601-005a-4859-877e-8dd46c5d4cdc)
-
-<p>Open for collaboration on edgy and interesting projects. For all things programming and geek related I'm available via mail: <a style="color: yellow;">haldgerd.code@gmail.com</a>.</p>
