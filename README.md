@@ -1,17 +1,11 @@
 <!--**Haldgerd/Haldgerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![THE TOOLS (2)](https://github.com/user-attachments/assets/aa123473-87f5-47ab-8f1d-106705176bff)
+![1](https://github.com/user-attachments/assets/0975b8d1-fd79-404d-898f-9325b0449637)
 
+![2](https://github.com/user-attachments/assets/618b7caa-e657-486d-a74d-ea06549317bf)
 
-![1](https://github.com/user-attachments/assets/97c4ee31-53c5-4ef4-8991-4fb0e771b604)
+![3](https://github.com/user-attachments/assets/e73ec866-396d-4019-9768-5f59cbd31bc8)
 
-
-
-![2](https://github.com/user-attachments/assets/1a1a03f2-3cc0-40dc-8143-11af4fa4001c)
-
-
-![3](https://github.com/user-attachments/assets/8ca5e061-e816-4257-99e8-b8bbe1f8c69b)
-
-
+![4](https://github.com/user-attachments/assets/179f3601-005a-4859-877e-8dd46c5d4cdc)
 
 <p>Open for collaboration on edgy and interesting projects. For all things programming and geek related I'm available via mail: <a style="color: yellow;">haldgerd.code@gmail.com</a>.</p>
