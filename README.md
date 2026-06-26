@@ -1,9 +1,50 @@
 <!--**Haldgerd/Haldgerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+# Lorna Mally
 
-![1](https://github.com/user-attachments/assets/0975b8d1-fd79-404d-898f-9325b0449637)
+Frontend Developer | Technical Artist  
+Real-time rendering · Unity HDRP · Analog cinematic visual systems
 
-![2](https://github.com/user-attachments/assets/618b7caa-e657-486d-a74d-ea06549317bf)
+---
 
-![3](https://github.com/user-attachments/assets/e73ec866-396d-4019-9768-5f59cbd31bc8)
+## Current Direction
 
-![4](https://github.com/user-attachments/assets/179f3601-005a-4859-877e-8dd46c5d4cdc)
+I am building a portfolio around analog speculative technical art: real-time studies inspired by late-70s and early-80s cinema, dark fantasy, CRT systems, optical printing, and film artifacts.
+
+---
+
+## Featured Work
+
+### ROUTINE: Real-time Analog Film Study
+
+Unity HDRP scene study focused on cinematic lighting, fog, analog post-processing, CRT transitions, and film-inspired presentation.
+
+---
+
+## Technical Focus
+
+- Unity HDRP lighting and post-processing
+- Analog film artifacts: halation, grain, gate weave, flicker
+- Shader and rendering fundamentals
+- Blender scene and asset preparation
+- Angular / TypeScript frontend systems
+
+---
+
+## Stack
+
+**Technical Art**  
+Unity · HDRP · Blender · Photoshop · After Effects · HLSL basics
+
+**Frontend**  
+Angular · TypeScript · RxJS · NgRx · HTML/CSS
+
+**Workflow**  
+Git · Azure DevOps · Playwright
+
+---
+
+## Links
+
+Portfolio: coming soon  
+ArtStation: coming soon  
+LinkedIn: ...
